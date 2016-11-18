@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.filemanger.aj">
+    <module_version install_time="1479432189987" last="true" origin="installer" specification_version="1.0">
+        <file crc="3326170497" name="config/Modules/org-filemanger-aj.xml"/>
+        <file crc="2445223280" name="modules/org-filemanger-aj.jar"/>
+    </module_version>
+</module>
